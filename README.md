@@ -1,5 +1,5 @@
 # RoboCRM
-A partir de uma planilha excel de clientes, o robo realiza a leitura de cada linha da planilha extraindo todas as informações pertinentes aos clientes.
+A partir de uma planilha excel de clientes, o robô realiza a leitura de cada linha da planilha extraindo todas as informações pertinentes aos clientes.
 Após isso, os dados obtidos são utilizados para preencher simultaneamente uma webpage e um aplicativo desktop.
 
 **Captura de Dados da Web**
